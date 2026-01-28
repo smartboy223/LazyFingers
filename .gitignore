@@ -20,3 +20,6 @@ dist/
 
 # Temporary
 chrome_temp_profile/
+
+# Scripts
+*.bat
