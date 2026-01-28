@@ -1,0 +1,22 @@
+# IDEs and Editors
+.vscode/
+.idea/
+.trae/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+
+# Node (if applicable in future)
+node_modules/
+dist/
+
+# Temporary
+chrome_temp_profile/
